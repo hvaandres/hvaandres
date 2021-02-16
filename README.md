@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with Devops, Cybersecurity & Cloud.
 - 💬 Ask me about anything and I will be more than happy to help.
 - 📫 How to reach me: hvaandres@uxdeveloper.dev
-- 😄 Pronouns: HE/SHE	HIM/HER	HIS/HER
+- 😄 Pronouns: HE, HIM & HIS
 - ⚡ Fun fact: 🦄 UX developer | Full-Stack Developer | Automation Engineer | Cybersecurity Analyst | Born in 🇺🇸 raised in 🇲🇽 | Creating a new life with code..!
 
