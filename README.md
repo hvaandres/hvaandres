@@ -27,11 +27,11 @@
 - 🔭 I’m currently working on Automation Tools to help Junior Developers to get a Job
 - 🌱 I’m currently learning Cloud Development, Devops, & Cybersecurity.
 - 👯 I’m looking to collaborate on any Open Source Project.
-- 🤔 I’m looking for help with Devops, Cybersecurity & Cloud.
+- 🤔 I’m looking for help other individuals with Android, Automation, Devops, Cybersecurity.
 - 💬 Ask me about anything and I will be more than happy to help.
 - 📫 How to reach me: hvaandres@uxdeveloper.dev
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I speak 2 Languages (English, Spanish) | I am a Photographer | I love communicating with people
+- ⚡ Fun fact: I speak 2 Languages (English, Spanish) | I am a Photographer | I love communicating with people 
 <a href="https://github.com/hvaandres">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hvaandres&show_icons=true&theme=light&line_height=32" alt="Andre's github stats"/>
 </a>
