@@ -65,5 +65,5 @@
 <br />
 
 
-### Show some ❤️ by following me & by asking some good questions!
+### Show some ❤️ by buying me a coffee <a href=https://www.buymeacoffee.com/hvaandres>
 
