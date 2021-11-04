@@ -65,5 +65,6 @@
 <br />
 
 
-### Show some ❤️ by buying me a coffee <button type="button" onclick="alert('Thank you')">Click Me!</button>
+### Show some ❤️ by buying me a coffee 
+<a href="https://www.buymeacoffee.com/hvaandres">
 
