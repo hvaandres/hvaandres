@@ -67,4 +67,6 @@
 
 ### Show some ❤️ by buying me a coffee 
 <a href="https://www.buymeacoffee.com/hvaandres">
+  <img align="left" alt="Andre's Coffee" width="22px" src="https://www.flaticon.com/premium-icon/coffee_2465580" />
+</a>
 
