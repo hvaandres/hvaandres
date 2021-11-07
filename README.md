@@ -1,5 +1,8 @@
 ## Hola, My Friends...🤓!
 
+### Show some ❤️ by buying me a coffee 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hvaandres)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvaandres&label=Views&color=blue&style=plastic" alt="hvaandres" /> </p>
 
 <a href="https://twitter.com/madebyuxdev">
@@ -20,6 +23,8 @@
 <a href="https://www.youtube.com/UCgWt5jQo5OLyMdlR0FbSmEQ/">
   <img align="left" alt="Andre's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+
+
 
 <br/>
 <br/>
@@ -65,6 +70,4 @@
 <br />
 
 
-### Show some ❤️ by buying me a coffee 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hvaandres)
 
