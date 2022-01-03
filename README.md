@@ -1,22 +1,25 @@
 ## Hola, My Friends...🤓!
 
-- 🔭 I’m currently working on Automation Tools to help Junior Developers to get a Job
-- 🌱 I’m currently learning Cloud Development, Devops, & Cybersecurity.
-- 👯 I’m looking to collaborate on any Open Source Project.
-- 🤔 I’m looking for help other individuals with Android, Automation, Devops, Cybersecurity.
-- 💬 Ask me about anything and I will be more than happy to help.
-- 📫 How to reach me: hvaandres@uxdeveloper.dev
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I speak 2 Languages (English, Spanish) | I am a Photographer | I love communicating with people 
-<a href="https://github.com/hvaandres">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hvaandres&show_icons=true&theme=light&line_height=32" alt="Andre's github stats"/>
-</a>
+<div align= "left">
+<ul>
+ <li> 🔭 I’m currently working on Automation Tools to help Junior Developers to get a Job </li>
+ <li> 🌱 I’m currently learning Cloud Development, Devops, & Cybersecurity.
+ <li> 👯 I’m looking to collaborate on any Open Source Project.
+ <li> 🤔 I’m looking for help other individuals with Android, Automation, Devops, Cybersecurity.
+ <li> 💬 Ask me about anything and I will be more than happy to help.
+ <li> 📫 How to reach me: hvaandres@icloud.com
+ <li> 😄 Pronouns: He/Him/His
+ <li> ⚡ Fun fact: I speak 2 Languages (English, Spanish) | I am a Photographer | I love communicating with people
+</ul>
+ 
+ </div>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/hvaandres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hvaandres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvaandres&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -24,7 +27,10 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="iOS" height="30" width="80" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+  <img align="center" alt="linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="ubuntu" height="30" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img align="center" alt="kubernetes" height="30" width="100" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
 </div>
   
   ##
