@@ -1,4 +1,4 @@
-## Hola, my name is Andres Haro & I am a Site Reliability & DevOps Engineer...🤓!
+## Hola, I am a Site Reliability & DevOps Engineer...🤓!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvaandres&label=Views&color=blue&style=plastic" alt="hvaandres" /> </p>
 
