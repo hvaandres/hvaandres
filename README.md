@@ -7,7 +7,7 @@
 
 <div align= "left">
 <ul>
- <li> 🔭 I’m currently working on Creating Mobile Applications & Mentoring new Software Engineers to help them to get a job in the Tech Industry </li>
+ <li> 🔭 I’m currently working on Designing & Creating Mobile Applications & Mentoring new Software & Mobile Engineers </li>
  <li> 🌱 I’m currently learning Site Reliability, DevOps & Mobile Development with iOS, Android by using Flutter. </li>
  <li> 👯 I’m looking to collaborate on any Open Source Project. </li>
  <li> 🤔 I’m looking for help other individuals with iOS, Android, Automation, Devops, Cybersecurity. </li>
