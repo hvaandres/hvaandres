@@ -7,14 +7,14 @@
 
 <div align= "left">
 <ul>
- <li> 🔭 I’m currently working on Automation Tools to help Junior Developers to get a Job </li>
- <li> 🌱 I’m currently learning Cloud Development, Devops, & Cybersecurity. </li>
+ <li> 🔭 I’m currently working on Creating Mobile Applications & Mentoring new Software Engineers to help them to get a job in the Tech Industry </li>
+ <li> 🌱 I’m currently learning Site Reliability, DevOps & Mobile Development with iOS, Android by using Flutter. </li>
  <li> 👯 I’m looking to collaborate on any Open Source Project. </li>
  <li> 🤔 I’m looking for help other individuals with iOS, Android, Automation, Devops, Cybersecurity. </li>
  <li> 💬 Ask me about anything and I will be more than happy to help. </li>
  <li> 📫 How to reach me: hvaandres@icloud.com </li>
  <li> 😄 Pronouns: He/Him/His </li>
- <li> ⚡ Fun fact: I speak 2 Languages (English 🇺🇸 English / 🇪🇸 Spanish) | I am a Photographer | I love communicating with people </li>
+ <li> ⚡ Fun fact: I speak 2 Languages (English 🇺🇸 English / 🇪🇸 Spanish) | I am a Photographer | I love communicating with people | I love mentoring people </li>
 </ul>
  
  </div>
