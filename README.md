@@ -1,4 +1,4 @@
-## Hola, I am a Site Reliability & DevOps Engineer...🤓!
+## Hola, I am a DevOps & Mobile Engineer with tons of creativity...🤓!
 
  <a href="https://www.buymeacoffee.com/hvaandres" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a> 
 
@@ -8,13 +8,13 @@
 <div align= "left">
 <ul>
  <li> 🔭 I’m currently working on Designing & Creating Mobile Applications & Mentoring new Software & Mobile Engineers </li>
- <li> 🌱 I’m currently learning Site Reliability, DevOps & Mobile Development with iOS, Android by using Flutter. </li>
- <li> 👯 I’m looking to collaborate on any Open Source Project. </li>
- <li> 🤔 I’m looking for help other individuals with iOS, Android, Automation, Devops, Cybersecurity. </li>
+ <li> 🌱 I’m currently learning Mobile Development with iOS & Android Natively. </li>
+ <li> 👯 I’m looking to learn more about UX Design, Flutter, Video Editing, etc.</li>
+ <li> 🤔 I’m looking for help other individuals to get into the tech world by teaching them how to code </li>
  <li> 💬 Ask me about anything and I will be more than happy to help. </li>
- <li> 📫 How to reach me: hvaandres@icloud.com </li>
+ <li> 📫 How to reach me: ithvaandres@gmail.com </li>
  <li> 😄 Pronouns: He/Him/His </li>
- <li> ⚡ Fun fact: I speak 2 Languages (English 🇺🇸 English / 🇪🇸 Spanish) | I am a Photographer | I love communicating with people | I love mentoring people </li>
+ <li> ⚡ Fun fact: I speak 2 Languages (English 🇺🇸 English / 🇪🇸 Spanish) | I am a Photographer & Video Content Creator | I love communicating with people | I love mentoring people | Love Design </li>
 </ul>
  
  </div>
