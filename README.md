@@ -9,7 +9,7 @@
 <ul>
  <li> 🔭 I’m currently working on Designing & Creating Mobile Applications & Mentoring new Software & Mobile Engineers </li>
  <li> 🌱 I’m currently learning Mobile Development with iOS & Android Natively. </li>
- <li> 👯 I’m looking to learn more about Cybersecurity, Infrastructure as Code, Flutter, Video Editing, etc.</li>
+ <li> 👯 I’m looking to learn more about UX Design, Mobile Development through Flutter, Cybersecurity Tools, Infrastructure as Code, Video Editing, etc.</li>
  <li> 🤔 I’m looking for help other individuals to get into the tech world by teaching them how to code </li>
  <li> 💬 Ask me about anything and I will be more than happy to help. </li>
  <li> 📫 How to reach me: ithvaandres@gmail.com </li>
