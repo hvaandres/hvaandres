@@ -35,6 +35,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="iOS" height="30" width="80" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+  <img align="center" alt="Android" height="30" width="80" src="https://img.shields.io/badge/ANdroid-a4c639?style=for-the-badge&logo=android&logoColor=white">
   <img align="center" alt="linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" alt="ubuntu" height="30" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img align="center" alt="kubernetes" height="30" width="100" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
