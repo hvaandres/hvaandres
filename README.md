@@ -12,7 +12,6 @@
  <li> 👯 I’m looking to learn more about UX Design, Mobile Development through Flutter, Cybersecurity Tools, Infrastructure as Code, Video Editing, etc.</li>
  <li> 🤔 I’m looking for help other individuals to get into the tech world by teaching them how to code </li>
  <li> 💬 Ask me about anything and I will be more than happy to help. </li>
- <li> 📫 How to reach me: ithvaandres@gmail.com </li>
  <li> 😄 Pronouns: He/Him/His </li>
  <li> ⚡ Fun fact: I speak 2 Languages (English 🇺🇸 English / 🇪🇸 Spanish) | I am a Photographer & Video Content Creator | I love communicating with people | I love mentoring people | Love Design </li>
 </ul>
