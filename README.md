@@ -7,7 +7,7 @@
 
 <div align= "left">
 <ul>
- <li> 🔭 I’m currently working as a DevOps & DevSecOps Engineer & I'm mentoring new Engineers through [Nucamp](https://nucamp.co?referral=YGVUVG) </li>
+ <li> 🔭 I’m currently working as a DevOps & DevSecOps Engineer & I'm mentoring new Engineers through (Nucamp)[https://nucamp.co?referral=YGVUVG] </li>
  <li> 🌱 I’m currently learning Cybersecurity & Data Engineering </li>
  <li> 👯 I’m looking to learn more about UX Design, Mobile Development through Flutter, Cybersecurity Tools, Infrastructure as Code, Video Editing, etc.</li>
  <li> 🤔 I’m looking for help other individuals to get into the tech world by teaching them how to code </li>
