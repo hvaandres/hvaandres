@@ -14,7 +14,7 @@
  <li> 💬 Please feel free to reach out to me with any questions or inquiries. I'm always happy to help! </li>
  <li> 😄 Pronouns: He/Him/His </li>
  <li> ⚡ Fun fact: I speak 2 Languages (English 🇺🇸 English / 🇪🇸 Spanish) | I am a Photographer & Video Content Creator | I love communicating with people | I love mentoring people | Love Design </li>
- <li> <a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf">  Download Resume </a> </li>
+ <li> <a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf">  Click Here to View my Resume   </a> </li>
 </ul>
  
  </div>
