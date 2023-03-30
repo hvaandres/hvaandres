@@ -7,13 +7,12 @@
 
 <div align= "left">
 <ul>
- <li> 🔭 I’m currently working as a DevOps & DevSecOps Engineer </li>
- <li> 🤯 Mentoring Engineers to understand Infrastructure as Code - Terraform, Docker, Kubernetes, Cybersecurity </li>
+ <li> 🤯 I'm a DevOps and DevSecOps engineer, currently mentoring other engineers on Infrastructure as Code (Terraform, Docker, Kubernetes) and cybersecurity. Additionally, I'm involved in various open source projects related to Android, Python, and Javascript. </li>
  <li> 🤓 I'm currently helping with Open Source projects with Android, Python & Javascript Projects</>
- <li> 🌱 I’m currently learning Cybersecurity & learning how to add AI into my current workflow </li>
- <li> 🎯 I’m looking to get my Masters degree into Cybersecurity </li>
+ <li> 🌱 I'm currently expanding my knowledge in cybersecurity and exploring ways to incorporate AI into my workflow. </li>
+ <li> 🎯 My goal is to pursue a master's degree in cybersecurity to further advance my expertise in the field </li>
  <li> 🤔 I’m looking for help other individuals to get into the tech world by teaching them how to code </li>
- <li> 💬 Ask me about anything and I will be more than happy to help. </li>
+ <li> 💬 Please feel free to reach out to me with any questions or inquiries. I'm always happy to help! </li>
  <li> 😄 Pronouns: He/Him/His </li>
  <li> ⚡ Fun fact: I speak 2 Languages (English 🇺🇸 English / 🇪🇸 Spanish) | I am a Photographer & Video Content Creator | I love communicating with people | I love mentoring people | Love Design </li>
 </ul>
