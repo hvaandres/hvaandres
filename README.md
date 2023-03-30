@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvaandres&label=Views&color=blue&style=plastic" alt="hvaandres" /> </p> 
 
-<a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf" download style="display: inline-block; background-color: #4CAF50; border: none; color: white; padding: 6px 12px; text-align: center; text-decoration: none; font-size: 14px; border-radius: 4px;"> Download Resume </a>
+<a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf">  Download Resume </a>
 
 
 
