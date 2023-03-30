@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvaandres&label=Views&color=blue&style=plastic" alt="hvaandres" /> </p> 
 
-<a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf">  Download Resume </a>
-
-
-
 <div align= "left">
 <ul>
  <li> 🤯 I'm a DevOps and DevSecOps engineer, currently mentoring other engineers on Infrastructure as Code (Terraform, Docker, Kubernetes) and cybersecurity </li>
@@ -18,6 +14,7 @@
  <li> 💬 Please feel free to reach out to me with any questions or inquiries. I'm always happy to help! </li>
  <li> 😄 Pronouns: He/Him/His </li>
  <li> ⚡ Fun fact: I speak 2 Languages (English 🇺🇸 English / 🇪🇸 Spanish) | I am a Photographer & Video Content Creator | I love communicating with people | I love mentoring people | Love Design </li>
+ <li> <a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf">  Download Resume </a> </li>
 </ul>
  
  </div>
