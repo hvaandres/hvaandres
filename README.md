@@ -4,11 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvaandres&label=Views&color=blue&style=plastic" alt="hvaandres" /> </p> 
 
+<a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf" download style="display: inline-block; background-color: #4CAF50; border: none; color: white; padding: 6px 12px; text-align: center; text-decoration: none; font-size: 14px; border-radius: 4px;"> Download Resume </a>
+
+
 
 <div align= "left">
 <ul>
- <li> 🤯 I'm a DevOps and DevSecOps engineer, currently mentoring other engineers on Infrastructure as Code (Terraform, Docker, Kubernetes) and cybersecurity. Additionally, I'm involved in various open source projects related to Android, Python, and Javascript. </li>
- <li> 🤓 I'm currently helping with Open Source projects with Android, Python & Javascript Projects</>
+ <li> 🤯 I'm a DevOps and DevSecOps engineer, currently mentoring other engineers on Infrastructure as Code (Terraform, Docker, Kubernetes) and cybersecurity </li>
+ <li> 🤓 I'm involved in various open source projects related to Android, Python, and Javascript</>
  <li> 🌱 I'm currently expanding my knowledge in cybersecurity and exploring ways to incorporate AI into my workflow. </li>
  <li> 🎯 My goal is to pursue a master's degree in cybersecurity to further advance my expertise in the field </li>
  <li> 🤔 I’m looking for help other individuals to get into the tech world by teaching them how to code </li>
@@ -41,7 +44,7 @@
   <a href="https://www.youtube.com/channel/UCgWt5jQo5OLyMdlR0FbSmEQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/hvaandres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/4kFKpXAZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:hello@aharo.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hello@aharo.dev"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hvaandres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.buymeacoffee.com/hvaandres" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
  <a href="https://developers.google.com/profile/u/Hvaandres" target="_blank"><img src="https://img.shields.io/badge/ANdroid-a4c639?style=for-the-badge&logo=android&logoColor=white" target="_blank"></a>
