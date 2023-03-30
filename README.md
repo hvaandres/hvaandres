@@ -7,9 +7,11 @@
 
 <div align= "left">
 <ul>
- <li> 🔭 I’m currently working as a DevOps & DevSecOps Engineer & I'm mentoring new Engineers through Nucamp - Coding Bootcamp </li>
- <li> 🌱 I’m currently learning Cybersecurity & Data Engineering </li>
- <li> 👯 I’m looking to learn more about UX Design, Mobile Development through Flutter, Cybersecurity Tools, Infrastructure as Code, Video Editing, etc.</li>
+ <li> 🔭 I’m currently working as a DevOps & DevSecOps Engineer </li>
+ <li> 🤯 Mentoring Engineers to understand Infrastructure as Code - Terraform, Docker, Kubernetes, Cybersecurity </li>
+ <li> 🤓 I'm currently helping with Open Source projects with Android, Python & Javascript Projects</>
+ <li> 🌱 I’m currently learning Cybersecurity & learning how to add AI into my current workflow </li>
+ <li> 🎯 I’m looking to get my Masters degree into Cybersecurity </li>
  <li> 🤔 I’m looking for help other individuals to get into the tech world by teaching them how to code </li>
  <li> 💬 Ask me about anything and I will be more than happy to help. </li>
  <li> 😄 Pronouns: He/Him/His </li>
@@ -40,7 +42,7 @@
   <a href="https://www.youtube.com/channel/UCgWt5jQo5OLyMdlR0FbSmEQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/hvaandres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/4kFKpXAZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ithvaandres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hello@aharo.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hvaandres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.buymeacoffee.com/hvaandres" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
  <a href="https://developers.google.com/profile/u/Hvaandres" target="_blank"><img src="https://img.shields.io/badge/ANdroid-a4c639?style=for-the-badge&logo=android&logoColor=white" target="_blank"></a>
