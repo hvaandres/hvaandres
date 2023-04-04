@@ -1,15 +1,16 @@
-<div align="left" >
+<div align="center" >
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=👋-Hola+my+name+is+Alan!)
 <hr />
 </div>
 
-<div align="left" >
-## I'm a DevOps & DevSecOps with a lot of 🤯 Creativity..!
+<div align="center" >
+
+  I'm a DevOps & DevSecOps with a lot of 🤯 Creativity..!
 
  <a href="https://www.buymeacoffee.com/hvaandres" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hvaandres&label=Views&color=blue&style=plastic" alt="hvaandres" /> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hvaandres&label=Views&color=blue&style=plastic" alt="hvaandres" /> </p> 
 
 <div align= "left">
 <ul>
