@@ -18,7 +18,7 @@
  <li> 🤓 I'm involved in various open source projects related to Android, Python, and Javascript</>
  <li> 🌱 I'm currently expanding my knowledge in cybersecurity and exploring ways to incorporate AI into my workflow. </li>
  <li> 🎯 My goal is to pursue a master's degree in cybersecurity to further advance my expertise in the field </li>
- <li> 🤔 I’m looking for help other individuals to get into the tech world by teaching them how to code </li>
+ <li> 🤔 I’m looking to help other individuals to get into the tech world by teaching them how to code </li>
  <li> 💬 Please feel free to reach out to me with any questions or inquiries. I'm always happy to help! </li>
  <li> 😄 Pronouns: He/Him/His </li>
  <li> ⚡ Fun fact: I speak 2 Languages (English 🇺🇸 English / 🇪🇸 Spanish) | I am a Photographer & Video Content Creator | I love communicating with people | I love mentoring people | Love Design </li>
