@@ -14,7 +14,7 @@
 
 <div align= "left">
 <ul>
- <li> 🤯 I'm a DevOps and DevSecOps engineer, currently mentoring other engineers on Infrastructure as Code (Terraform, Docker, Kubernetes) and cybersecurity </li>
+ <li> 🤯 I'm a DevOps and Security engineer, currently mentoring other engineers on Infrastructure as Code (Terraform, Docker, Kubernetes) and cybersecurity </li>
  <li> 🤓 I'm involved in various open source projects related to Android, Python, and Javascript</>
  <li> 🌱 I'm currently expanding my knowledge in cybersecurity and exploring ways to incorporate AI into my workflow. </li>
  <li> 🎯 My goal is to pursue a master's degree in cybersecurity to further advance my expertise in the field </li>
