@@ -6,7 +6,7 @@
 
 <div align="center" >
 
-  I'm a DevOps & Security Engineer with a lot of 🤯 Creativity..!
+  I'm a CyberSecurity Engineer & a DevOps Engineer with a lot of 🤯 Creativity..!
 
  <a href="https://www.buymeacoffee.com/hvaandres" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a> 
 
@@ -21,7 +21,7 @@
  <li> 🤔 I’m looking to help other individuals get into the tech world by teaching them how to code </li>
  <li> 💬 Please feel free to reach out to me with any questions or inquiries. I'm always happy to help! </li>
  <li> 😄 Pronouns: He/Him/His </li>
- <li> ⚡ Fun fact: Fluent in 2 languages (English 🇺🇸 / 🇪🇸 Spanish) | A Photographer & Video Content Creator | Enthusiastic communicator and mentor | Passionate about design. </li>
+ <li> ⚡ Fun fact: Fluent in 2 languages (English 🇺🇸 / 🇪🇸 Spanish) | A Photographer & Video Content Creator | Enthusiastic communicator and mentor | Passionate about Web Design </li>
  <li> <a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf">  Click Here to View my Resume   </a> </li>
 </ul>
  
