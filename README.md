@@ -6,7 +6,7 @@
 
 <div align="center" >
 
-  I'm a CyberSecurity Engineer & a DevOps Engineer with a lot of 🤯 Creativity..!
+  I'm a CyberSecurity Engineer | DevOps Engineer | MLOPS Engineer | Site Reliability Engineer with a lot of 🤯 Creativity..!
 
  <a href="https://www.buymeacoffee.com/hvaandres" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a> 
 
