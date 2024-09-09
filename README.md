@@ -15,7 +15,7 @@
 <div align= "left">
 <ul>
  <li> 🤯 I'm a Security Software Engineer & DevOps Engineer, currently mentoring other engineers on Infrastructure as Code (Terraform, Docker, Kubernetes) and cybersecurity </li>
- <li> 🤓 I'm involved in various open-source projects related to Android, Python, and Javascript</>
+ <li> 🤓 I'm involved in various open-source projects related to Android, iOS, Python, MLOPS, and many others </>
  <li> 🌱 I'm currently expanding my knowledge in Machine Learning & Artificial Intelligence </li>
  <li> 🎯 My goal is to become a Principal Security Software Engineer </li>
  <li> 🤔 I’m looking to help other individuals get into the tech world by teaching them how to code </li>
