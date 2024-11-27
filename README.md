@@ -22,8 +22,8 @@
  <li> 💬 Please feel free to contact me with any questions or inquiries. I'm always happy to help! </li>
  <li> 😄 Pronouns: He/Him/His </li>
  <li> ⚡ Fun fact: Fluent in 2 languages (English 🇺🇸 / 🇪🇸 Spanish) | A Photographer & Video Content Creator | Enthusiastic communicator and mentor | Passionate about No-Code Tools to leverage more creativity for small business  </li>
- <li> <a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf">  Click Here to View my Resume   </a> </li>
-</ul>
+ 
+ <li> <a href="https://hvaandres.github.io/resume-page/" target="_blank"> Click Here to View My Resume </a> </li>
  
  </div>
 <br>
