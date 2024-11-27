@@ -23,7 +23,7 @@
  <li> 😄 Pronouns: He/Him/His </li>
  <li> ⚡ Fun fact: Fluent in 2 languages (English 🇺🇸 / 🇪🇸 Spanish) | A Photographer & Video Content Creator | Enthusiastic communicator and mentor | Passionate about No-Code Tools to leverage more creativity for small business  </li>
  
- <li> <a href="https://hvaandres.github.io/hvaandres/resume-page.html" target="_blank"> Click Here to View My Resume </a> </li>
+ <li> <a href="https://github.com/hvaandres/hvaandres/blob/main/resume-page.html" target="_blank"> Click Here to View My Resume </a> </li>
 
 
  
