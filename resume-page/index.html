@@ -13,6 +13,13 @@
       height: 100vh;
       background-color: #f0f0f0;
       font-family: Arial, sans-serif;
+      flex-direction: column;
+      text-align: center;
+    }
+    .title {
+      font-size: 24px;
+      margin-bottom: 20px;
+      font-weight: bold;
     }
     a {
       font-size: 20px;
@@ -21,6 +28,7 @@
       border: 2px solid #007bff;
       padding: 10px 20px;
       border-radius: 5px;
+      margin-top: 20px;
     }
     a:hover {
       background-color: #007bff;
@@ -30,7 +38,9 @@
 </head>
 <body>
 
-<a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf" target="_blank" onclick="startConfetti()">View My Resume 🎉</a>
+<div class="title">🎉 You've Earned it! Here's My Resume!</div>
+
+<a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf" target="_blank" onclick="startConfetti()">Click Here to View My Resume</a>
 
 <script>
   function startConfetti() {
@@ -56,6 +66,11 @@
       }
     })();
   }
+
+  // Automatically redirect to the resume after 3 seconds
+  setTimeout(function() {
+    window.location.href = "https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf";
+  }, 3000); // 3000ms = 3 seconds
 </script>
 
 </body>

@@ -24,6 +24,7 @@
  <li> ⚡ Fun fact: Fluent in 2 languages (English 🇺🇸 / 🇪🇸 Spanish) | A Photographer & Video Content Creator | Enthusiastic communicator and mentor | Passionate about No-Code Tools to leverage more creativity for small business  </li>
  
  <li> <a href="https://hvaandres.github.io/resume-page/" target="_blank"> Click Here to View My Resume </a> </li>
+
  
  </div>
 <br>
