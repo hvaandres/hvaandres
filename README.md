@@ -35,7 +35,7 @@
  <li> 🌍 Languages: Fluent in English 🇺🇸 / Spanish 🇪🇸 </li>
  <li> 📷 Fun Fact: Photographer, Video Content Creator, and a firm believer in leveraging no-code tools for innovation </li>
  
- <li> <a href="https://github.com/hvaandres/hvaandres/blob/main/resume-page.html" target="_blank"> Click Here to View My Resume </a> </li>
+ <li> <a href="[https://github.com/hvaandres/hvaandres/blob/main/resume-page.html](https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf)" target="_blank"> Click Here to View My Resume </a> </li>
 
 
  
