@@ -28,15 +28,6 @@
 
 <div align= "left">
 <ul>
- <li> 🤯 I'm a Senior Security Software Engineer & DevOps Engineer, currently mentoring other engineers on Infrastructure as Code (Terraform, Docker, Kubernetes) and cybersecurity </li>
- <li> 🤓 I'm involved in various open-source projects related to Machine Learning, Mobile Development & CyberSecurity </>
- <li> 🌱 I'm currently expanding my knowledge in Machine Learning & Artificial Intelligence </li>
- <li> 🎯 My goal is to become a Principal Security Software Engineer or Product Engineering Manager </li>
- <li> 🤔 I’m looking to help other individuals get into the tech world by teaching them how to code </li>
- <li> 💬 Please feel free to contact me with any questions or inquiries. I'm always happy to help! </li>
- <li> 😄 Pronouns: He/Him/His </li>
- <li> ⚡ Fun fact: Fluent in 2 languages (English 🇺🇸 / 🇪🇸 Spanish) | A Photographer & Video Content Creator | Enthusiastic communicator and mentor | Passionate about No-Code Tools to leverage more creativity for small business  </li>
-
  <li>  🚀 Senior Security Software Engineer | DevSecOps | Cloud Security </li>
  <li> 👨‍🏫 Mentor & Educator in Infrastructure as Code (Terraform, Docker, Kubernetes) & Cybersecurity </li>
  <li> 💡 Open-Source Contributor in Machine Learning, Mobile Development, and Cybersecurity </li>
