@@ -10,9 +10,20 @@
 
  <a href="https://www.buymeacoffee.com/hvaandres" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a> 
 
-<a href="https://komarev.com/ghpvc/?username=hvaandres&label=Views&color=blue&style=plastic" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=hvaandres&label=Views&color=blue&style=plastic" alt="Profile Views" />
-</a>
+<p align="center">
+    <a href="https://komarev.com/ghpvc/?username=hvaandres&label=Views&color=blue&style=plastic" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=hvaandres&label=Views&color=blue&style=plastic" alt="Profile Views" />
+    </a>
+    &nbsp;
+    <a href="https://aharo.dev">
+        <img src="https://img.shields.io/badge/Portfolio-Visit-green" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf">
+        <img src="https://img.shields.io/badge/Resume-Download-blue" alt="Resume" />
+    </a>
+</p>
+
 
 
 <div align= "left">
@@ -39,6 +50,7 @@
  <li> 📷 Fun Fact: Photographer, Video Content Creator, and a firm believer in leveraging no-code tools for innovation </li>
  
  <li> 📄 <a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf" target="_blank"> View My Resume </a> 🚀 </li>
+
  
  </div>
 <br>
