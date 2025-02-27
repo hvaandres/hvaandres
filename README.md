@@ -22,6 +22,18 @@
  <li> 💬 Please feel free to contact me with any questions or inquiries. I'm always happy to help! </li>
  <li> 😄 Pronouns: He/Him/His </li>
  <li> ⚡ Fun fact: Fluent in 2 languages (English 🇺🇸 / 🇪🇸 Spanish) | A Photographer & Video Content Creator | Enthusiastic communicator and mentor | Passionate about No-Code Tools to leverage more creativity for small business  </li>
+
+ <li>  🚀 Senior Security Software Engineer | DevSecOps | Cloud Security </li>
+ <li> 👨‍🏫 Mentor & Educator in Infrastructure as Code (Terraform, Docker, Kubernetes) & Cybersecurity </li>
+ <li> 💡 Open-Source Contributor in Machine Learning, Mobile Development, and Cybersecurity </li>
+ <li> 🌱 Currently Learning: Machine Learning & Artificial Intelligence </li>
+ <li> 🎯 Career Goal: Become a Principal Security Software Engineer or Product Engineering Manager </li>
+ <li> 💻 Passionate About: Security automation, cloud security, and integrating DevSecOps into modern engineering workflows </li>
+ <li> 👨‍🏫 Mentoring aspiring engineers on breaking into tech and mastering cloud security & DevSecOps </li>
+ <li> 📢 Speaker & Content Creator: Sharing insights on security best practices, automation, and no-code solutions for small businesses </li>
+ <li> 📬 Let's Connect! Feel free to reach out for collaborations, mentorship, or just to chat about security & tech! </li>
+ <li> 🌍 Languages: Fluent in English 🇺🇸 / Spanish 🇪🇸 </li>
+ <li> 📷 Fun Fact: Photographer, Video Content Creator, and a firm believer in leveraging no-code tools for innovation </li>
  
  <li> <a href="https://github.com/hvaandres/hvaandres/blob/main/resume-page.html" target="_blank"> Click Here to View My Resume </a> </li>
 
