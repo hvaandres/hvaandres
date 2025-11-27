@@ -1,80 +1,141 @@
-<div align="center" >
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=👋-Hola+my+name+is+Andres!)
-<hr />
+<div align="center">
+
+<!-- Typing Intro -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=27&pause=2000&color=00C6FF&center=true&vCenter=true&width=600&lines=🚀++Hola,+my+name+is+Andres!;Senior+Security+Software+Engineer+" />
+
 </div>
 
-<div align="center" >
+<hr/>
 
-  I'm a CyberSecurity Engineer | DevOps Engineer | Cloud Engineer | MLOPS Engineer | Site Reliability Engineer | Mobile Developer with a lot of 🤯 Creativity..!
-
- <a href="https://www.buymeacoffee.com/hvaandres" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a> 
+<h3 align="center">Senior Security Software Engineer | DevSecOps | Cloud Security | Zero Trust | IAM | SRE</h3>
 
 <p align="center">
-    <a href="https://komarev.com/ghpvc/?username=hvaandres&label=Views&color=blue&style=plastic" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=hvaandres&label=Views&color=blue&style=plastic" alt="Profile Views" />
-    </a>
-    &nbsp;
-    <a href="https://aharo.dev">
-        <img src="https://img.shields.io/badge/Portfolio-Visit-green" alt="Portfolio" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf">
-        <img src="https://img.shields.io/badge/Resume-Download-blue" alt="Resume" />
-    </a>
+  <i>Building secure, automated, and scalable cloud systems across Azure, AWS, and GCP.</i>
+</p>
+
+---
+<h2> 👨‍💻 About Me </h2>
+
+
+<div>
+  <a href="https://github.com/hvaandres" style="display:inline-block;">
+    <img src="https://komarev.com/ghpvc/?username=hvaandres&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="hvaandres" />
+  </a>
+  
+  <a href="https://yourwebsite.com/YourResume.pdf" target="_blank" style="display:inline-block; margin-left:10px;">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
+  </a>
+</div>
+
+<ul>
+  <li>🔐 <b>Senior Security & DevOps Engineer</b> with 10+ years of experience across cloud, automation, and cybersecurity.</li>
+  <li>⚙️ Engineering secure platforms with <b>DevSecOps, Zero Trust, IAM, Kubernetes, Terraform, GitOps</b>.</li>
+  <li>🤖 Automation-focused: API Security, Python tooling, CI/CD security, cloud policy enforcement.</li>
+  <li>🧪 Expanding into <b>MLOps, secure ML pipelines, AI security automation</b>.</li>
+  <li>👨‍🏫 Mentor helping engineers master DevOps, IaC, and modern cloud security.</li>
+  <li>🎯 Goal: <b>Principal Security Software Engineer or Product Engineering Manager</b>.</li>
+</ul>
+
+
+---
+
+<h2>🌌 Space Creators — My Engineering Community</h2>
+
+<p>
+I run <b>Space Creators</b>, a community where we help developers and security engineers grow through:
+</p>
+
+<ul>
+  <li>🚀 DevOps & Cloud hands-on projects</li>
+  <li>🔐 Cybersecurity & DevSecOps workshops</li>
+  <li>⚙️ Infrastructure as Code (Terraform, Kubernetes) labs</li>
+  <li>🎯 Career coaching & mentoring</li>
+</ul>
+
+<p align="left">
+  <a href="https://discord.gg/4kFKpXAZ" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join%20Space%20Creators-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
 
+---
 
-<div align= "left">
-<ul>
- <li>  🚀 Senior Security Software Engineer | DevSecOps | Cloud Security </li>
- <li> 👨‍🏫 Mentor & Educator in Infrastructure as Code (Terraform, Docker, Kubernetes) & Cybersecurity </li>
- <li> 💡 Open-Source Contributor in Machine Learning, Mobile Development, and Cybersecurity </li>
- <li> 🌱 Currently Learning: Machine Learning & Artificial Intelligence </li>
- <li> 🎯 Career Goal: Become a Principal Security Software Engineer or Product Engineering Manager </li>
- <li> 💻 Passionate About: Security automation, cloud security, and integrating DevSecOps into modern engineering workflows </li>
- <li> 👨‍🏫 Mentoring aspiring engineers on breaking into tech and mastering cloud security & DevSecOps </li>
- <li> 📢 Speaker & Content Creator: Sharing insights on security best practices, automation, and no-code solutions for small businesses </li>
- <li> 📬 Let's Connect! Feel free to reach out for collaborations, mentorship, or just to chat about security & tech! </li>
- <li> 🌍 Languages: Fluent in English 🇺🇸 / Spanish 🇪🇸 </li>
- <li> 📷 Fun Fact: Photographer, Video Content Creator, and a firm believer in leveraging no-code tools for innovation </li>
- 
- <li> 📄 <a href="https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf" target="_blank"> View My Resume </a> 🚀 </li>
+<h2>🛠️ Tech Stack & Tools</h2>
 
- 
- </div>
-<br>
-<br>
+<div align="center">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="iOS" height="30" width="80" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-  <img align="center" alt="Android" height="30" width="80" src="https://img.shields.io/badge/ANdroid-a4c639?style=for-the-badge&logo=android&logoColor=white">
-  <img align="center" alt="linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img align="center" alt="ubuntu" height="30" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img align="center" alt="kubernetes" height="30" width="100" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
+<!-- Core Tools -->
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-FE640A?style=for-the-badge&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/FluxCD-00A3E0?style=for-the-badge&logo=flux&logoColor=white" />
+
+<!-- Programming Languages -->
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
+<!-- Cloud Providers -->
+<br/>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
+<!-- Security Tools -->
+<br/>
+<img src="https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=codacy&logoColor=white" />
+<img src="https://img.shields.io/badge/SOAR-4B275F?style=for-the-badge&logo=elasticstack&logoColor=white" />
+<img src="https://img.shields.io/badge/SIEM-4B275F?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/IAM-1E90FF?style=for-the-badge&logo=okta&logoColor=white" />
+
 </div>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hvaandres&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvaandres&layout=compact&theme=tokyonight" height="180px" />
+</div>
+
+---
+
+<!--START_SECTION:activity-->
+<h2>📈 + 🔥 = My Recent Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hvaandres&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<!--END_SECTION:activity-->
+
+---
+
+<h2>📬 Connect With Me</h2>
+
+<div align="center"> 
+  <a href="https://www.youtube.com/channel/UCgWt5jQo5OLyMdlR0FbSmEQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://instagram.com/hvaandres" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://discord.gg/4kFKpXAZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:hello@aharo.dev"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hvaandres/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.buymeacoffee.com/hvaandres" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+  <a href="https://developers.google.com/profile/u/Hvaandres" target="_blank"><img src="https://img.shields.io/badge/Android_Dev-a4c639?style=for-the-badge&logo=android&logoColor=white"></a>
   
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCgWt5jQo5OLyMdlR0FbSmEQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/hvaandres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/4kFKpXAZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:hello@aharo.dev"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hvaandres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.buymeacoffee.com/hvaandres" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
- <a href="https://developers.google.com/profile/u/Hvaandres" target="_blank"><img src="https://img.shields.io/badge/ANdroid-a4c639?style=for-the-badge&logo=android&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
- 
-</div>
+  <br/><br/>
+  <!-- Snake Contribution Animation -->
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </div>
 
+---
+
+<p align="center"><i>Daily Inspiration</i></p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
 
