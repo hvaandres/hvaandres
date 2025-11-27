@@ -61,11 +61,9 @@ I run <b>Space Creators</b>, a community where we help developers and security e
 
 ---
 
-<h2>🛠️ Tech Stack & Tools</h2>
-
 <div align="center">
 
-<!-- Core Tools -->
+<!-- Core DevOps / Infra Tools -->
 <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/ArgoCD-FE640A?style=for-the-badge&logo=argo&logoColor=white" />
@@ -78,20 +76,54 @@ I run <b>Space Creators</b>, a community where we help developers and security e
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
+<!-- Mobile / Cross-Platform -->
+<br/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+
 <!-- Cloud Providers -->
 <br/>
 <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
-<!-- Security Tools -->
+<!-- DevSecOps / Security Tools -->
 <br/>
 <img src="https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=codacy&logoColor=white" />
 <img src="https://img.shields.io/badge/SOAR-4B275F?style=for-the-badge&logo=elasticstack&logoColor=white" />
 <img src="https://img.shields.io/badge/SIEM-4B275F?style=for-the-badge&logo=splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/IAM-1E90FF?style=for-the-badge&logo=okta&logoColor=white" />
+<img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=hashicorp&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-0F172A?style=for-the-badge&logo=trivy&logoColor=white" />
+
+<!-- Additional DevOps Tools -->
+<br/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-CB3837?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Packer-FF6363?style=for-the-badge&logo=hashicorp&logoColor=white" />
+<img src="https://img.shields.io/badge/Consul-4381F6?style=for-the-badge&logo=hashicorp&logoColor=white" />
+
+<!-- Hacker / Pentesting Tools -->
+<br/>
+<img src="https://img.shields.io/badge/Metasploit-FF2D00?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-00FF00?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP_ZAP-FF0000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=hashicorp&logoColor=white" />
+<img src="https://img.shields.io/badge/Aircrack-ng-FF9900?style=for-the-badge&logo=aircrack-ng&logoColor=white" />
+<img src="https://img.shields.io/badge/Masscan-FF4500?style=for-the-badge&logo=masscan&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLmap-FF0000?style=for-the-badge&logo=sql&logoColor=white" />
+<img src="https://img.shields.io/badge/Recon-ng-008000?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
+
+
 
 ---
 
