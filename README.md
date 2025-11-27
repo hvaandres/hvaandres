@@ -22,7 +22,7 @@
     <img src="https://komarev.com/ghpvc/?username=hvaandres&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="hvaandres" />
   </a>
   
-  <a href="https://yourwebsite.com/YourResume.pdf" target="_blank" style="display:inline-block; margin-left:10px;">
+  <a href="[https://yourwebsite.com/YourResume.pdf](https://github.com/hvaandres/hvaandres/blob/main/Andre's%20resume.pdf)" target="_blank" style="display:inline-block; margin-left:10px;">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
   </a>
 </div>
